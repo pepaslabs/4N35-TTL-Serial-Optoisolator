@@ -32,6 +32,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:4N35-TTL-Serial-Optoisolator-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
@@ -315,6 +316,4 @@ F 3 "~" H 6000 3950 60  0000 C CNN
 	1    6000 3950
 	-1   0    0    -1  
 $EndComp
-Text Notes 2450 5750 0    60   ~ 0
-TODO: add capacitors?  or is that only needed for 6N137?
 $EndSCHEMATC
