@@ -5,6 +5,10 @@ A board for isolating a TTL serial RX / TX pair using 4N35 (6-pin) optoisolators
 
 This board is untested.
 
+# Design
+
+See [Designing a TTL Serial Opto isolator](https://github.com/pepaslabs/Electronics/wiki/Designing-a-TTL-Serial-Opto-isolator)
+
 # Board design v1
 
 Initial board design.
